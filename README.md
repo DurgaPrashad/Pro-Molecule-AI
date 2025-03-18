@@ -1,4 +1,5 @@
 # Generative AI Drug Discovery System
+![image](https://github.com/user-attachments/assets/e1425660-42c1-4db1-9123-f2a252660f57)
 
 ## Overview
 This project is a **Generative AI Drug Discovery System** using **Next.js** for the frontend and **FastAPI** for the backend. The system integrates various biomedical data sources, AI models, and cloud services to enable drug discovery and monetization.
@@ -13,6 +14,7 @@ The system consists of the following components:
 - Drug-target interaction prediction tools
 - Advanced 3D molecule visualization with WebGL
 - Real-time collaborative drug design tools
+![image](https://github.com/user-attachments/assets/d372c2b6-df74-4043-8d99-c8280726bd9d)
 
 ### 2. Backend (FastAPI)
 - Data collection and processing from biomedical databases
@@ -37,6 +39,7 @@ The system consists of the following components:
 - Orchestration with **Kubernetes**
 - Scalable infrastructure on **AWS/GCP/Azure**
 - Serverless AI model hosting with AWS SageMaker, Vertex AI, or Azure ML
+![image](https://github.com/user-attachments/assets/5e4992b0-6136-4ff2-b959-c8fee7979386)
 
 ## Implementation Details
 
