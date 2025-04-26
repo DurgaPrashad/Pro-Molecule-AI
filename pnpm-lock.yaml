@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 lockfileVersion: '9.0'
+=======
+lockfileVersion: '6.0'
+>>>>>>> d8911341e2e94a9484f62784f3c058ac194c693f
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
+<<<<<<< HEAD
 
 importers:
 
@@ -10733,3 +10738,5 @@ snapshots:
       '@types/react': 19.1.2
       react: 19.1.0
       use-sync-external-store: 1.5.0(react@19.1.0)
+=======
+>>>>>>> d8911341e2e94a9484f62784f3c058ac194c693f
